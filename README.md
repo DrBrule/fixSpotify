@@ -1,5 +1,5 @@
 # fixSpotify
- A tool to clear the cache on Spotify and make it work again
+ A tool to clear the cache on Spotify and make it work again.
  
 Spotify's desktop app has a tendency for the cache to get overfull
 and make the app stop working.  Anytime I hit a frozen app, or delayed play/pause, 
